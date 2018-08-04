@@ -1,3 +1,5 @@
+**_IMPORTANT: pluto is not recommended for daily use because it is still in development stage._**
+
 # About "pluto"
 Pluto is just a normal OS. We hope that it will be secure, stable and light-weight Operating System.
 Currently, pluto is in development stage, so it does not do anything much.
